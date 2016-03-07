@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="port" mtime="1453990950" type="int" value="913"/>
+	<entry name="host" mtime="1453990958" type="string">
+		<stringvalue>child-prc.intel.com</stringvalue>
+	</entry>
+	<entry name="use_same_proxy" mtime="1453990843" type="bool" value="false"/>
+</gconf>

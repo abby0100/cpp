@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="command_9" mtime="1453979464" type="string">
+		<stringvalue>/usr/bin/switch_monitor</stringvalue>
+	</entry>
+	<entry name="command_8" mtime="1453979464" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+</gconf>

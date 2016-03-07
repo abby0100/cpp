@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="socks_port" mtime="1453991004" type="int" value="913"/>
+	<entry name="socks_host" mtime="1453990995" type="string">
+		<stringvalue>child-prc.intel.com</stringvalue>
+	</entry>
+	<entry name="ftp_port" mtime="1453990994" type="int" value="913"/>
+	<entry name="ftp_host" mtime="1453990991" type="string">
+		<stringvalue>child-prc.intel.com</stringvalue>
+	</entry>
+	<entry name="secure_port" mtime="1453990990" type="int" value="913"/>
+	<entry name="secure_host" mtime="1453990986" type="string">
+		<stringvalue>child-prc.intel.com</stringvalue>
+	</entry>
+	<entry name="mode" mtime="1453990855" type="string">
+		<stringvalue>manual</stringvalue>
+	</entry>
+</gconf>

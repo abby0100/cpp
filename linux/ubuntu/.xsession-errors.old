@@ -1,0 +1,209 @@
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing commands options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/xy/.compiz/session/1059859e5c23d29177145397945514281700000283730035"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:28442): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+Initializing unityshell options...done
+Initializing annotate options...done
+Initializing blur options...done
+Initializing clone options...done
+Initializing cube options...done
+Initializing obs options...done
+Initializing rotate options...done
+Initializing screenshot options...done
+Initializing staticswitcher options...done
+Initializing switcher options...done
+Initializing water options...done
+Initializing wobbly options...done
+Setting Update "command7"
+Setting Update "run_command7_key"
+Setting Update "run_command_terminal_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "command7"
+Setting Update "command8"
+Setting Update "run_command7_key"
+Setting Update "run_command8_key"
+Setting Update "autoraise"
+Setting Update "autoraise_delay"
+Setting Update "toggle_window_shaded_key"
+Setting Update "fullscreen_visual_bell"
+Setting Update "main_menu_key"
+Setting Update "run_command_terminal_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+
+** (gnome-screensaver:28669): WARNING **: screensaver already running in this session
+
+(gnome-settings-daemon:28422): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+WARNING:root:timeout reached, exiting
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+2016-01-28 22:38:16,525 - softwarecenter.ui.gtk3.app - INFO - setting up proxy 'http://child-prc.intel.com:913/'
+2016-01-28 22:38:16,532 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+2016-01-28 22:38:16,556 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-01-28 22:38:16,630 - softwarecenter.backend.reviews - WARNING - Could not get usefulness from server, no username in config file
+2016-01-28 22:38:16,696 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=sogoupinyin].
+2016-01-28 22:38:16,698 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-01-28 22:38:23,545 - softwarecenter.region - WARNING - failed to use geoclue: 'org.freedesktop.Geoclue.Error.notAvailable: Geoclue master client has no usable Address providers'
+2016-01-28 22:38:23,652 - softwarecenter.db.update - INFO - skipping region restricted app: 'Bulleti d'esquerra de Calonge i Sant Antoni ' (not whitelisted)
+2016-01-28 22:38:23,712 - softwarecenter.db.update - INFO - skipping region restricted app: 'Just Play MP3' (not whitelisted)
+2016-01-28 22:38:23,748 - softwarecenter.db.update - INFO - skipping region restricted app: 'reEarCandy' (not whitelisted)
+2016-01-28 22:38:23,803 - softwarecenter.db.update - INFO - skipping region restricted app: '蚂蚁浏览器' (not whitelisted)
+2016-01-28 22:38:23,894 - softwarecenter.db.update - INFO - skipping region restricted app: 'Source Code Analyzer' (not whitelisted)
+2016-01-28 22:38:24,013 - softwarecenter.db.update - INFO - skipping region restricted app: 'Mandelbrot Plotter' (blacklisted) 
+2016-01-28 22:38:24,049 - softwarecenter.db.update - INFO - skipping region restricted app: 'Flaggame' (not whitelisted)
+2016-01-28 22:38:24,152 - softwarecenter.db.update - INFO - skipping region restricted app: 'Comentarios Web' (not whitelisted)
+2016-01-28 22:38:24,172 - softwarecenter.db.update - INFO - skipping region restricted app: 'Hunting Stars' (blacklisted) 
+2016-01-28 22:38:24,353 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterRecommenderAPI', 'recommend_app', '{"pkgname": "sogoupinyin"}']'
+2016-01-28 22:38:24,354 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:404: {'status': '404', 'content-length': '60', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '240', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"4963fbf0dd263e91fab0294c2ecf130b"', 'cache-control': 'max-age=300', 'date': 'Thu, 28 Jan 2016 06:34:10 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+'
+2016-01-28 22:38:24,354 - softwarecenter.db.categories - WARNING - Error while accessing the recommender service: WARNING:__main__:404: {'status': '404', 'content-length': '60', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '240', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"4963fbf0dd263e91fab0294c2ecf130b"', 'cache-control': 'max-age=300', 'date': 'Thu, 28 Jan 2016 06:34:10 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+
+2016-01-28 22:38:24,354 - softwarecenter.ui.gtk3.widgets.recommendations - WARNING - Error while accessing the recommender agent for the details view recommendations: WARNING:__main__:404: {'status': '404', 'content-length': '60', 'via': '1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)', 'x-cache': 'HIT from papeda.canonical.com', 'age': '240', 'strict-transport-security': 'max-age=2592000', 'server': 'Apache', 'etag': '"4963fbf0dd263e91fab0294c2ecf130b"', 'cache-control': 'max-age=300', 'date': 'Thu, 28 Jan 2016 06:34:10 GMT', 'content-type': 'text/html; charset=utf-8', 'x-cache-lookup': 'HIT from papeda.canonical.com:3128'}
+
+2016-01-28 22:38:25,183 - softwarecenter.ui.gtk3.app - INFO - software-center-agent finished with status 0
+2016-01-28 22:38:25,183 - softwarecenter.db.database - INFO - reopen() database
+2016-01-28 22:38:25,183 - softwarecenter.db.database - INFO - open() database: path=None use_axi=True use_agent=True
+gpg: /tmp/tmp9sluUa/trustdb.gpg: trustdb created
+2016-01-28 22:42:31,916 - softwarecenter.backend.spawn_helper - WARNING - exit code 1 from helper for '['/usr/share/software-center/piston_generic_helper.py', '--datadir', '/usr/share/software-center/', 'SoftwareCenterAgentAPI', 'exhibits', '{"lang": "en", "series": "precise"}']'
+2016-01-28 22:42:31,916 - softwarecenter.backend.spawn_helper - WARNING - got error from helper: 'WARNING:__main__:connecting to https://software-center.ubuntu.com/api/2.0: 
+'
+gpg: /tmp/tmp7pMD5v/trustdb.gpg: trustdb created
+2016-01-28 22:56:55,124 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+2016-01-28 23:10:37,124 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-01-28 23:12:42,526 - softwarecenter.ui.gtk3.app - INFO - show_available_packages: search_text is '', app is [Application: appname= pkgname=sogoupinyin].
+2016-01-28 23:12:42,911 - softwarecenter.ui.gtk3.app - INFO - found a running software-center on dbus, reconnecting
+2016-01-28 23:12:57,234 - softwarecenter.backend - ERROR - error in _on_trans_finished 'Error: Requires installation of untrusted packages
+The action would require the installation of packages from not authenticated sources.
+
+im-config'
+2016-01-28 23:13:07,546 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-01-28 23:13:08,397 - softwarecenter.utils - WARNING - Could not determine the installed desktop file path for app-install desktop file: 'None'
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+2016-01-28 23:19:22,124 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+
+(fcitx-config-gtk3:4228): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:4228): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(fcitx-config-gtk3:4228): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:4228): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.fcitx.Fcitx-0" does not exist
+
+(fcitx-config-gtk3:4228): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:4228): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(fcitx-config-gtk3:4228): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:4228): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+2016-01-28 23:29:46,125 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+2016-01-28 23:33:12,125 - softwarecenter.db.pkginfo_impl.aptcache - INFO - aptcache.open()
+** Message: fcitx-config-gtk3 is running.
+
+(fcitx-config-gtk3:4228): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:4228): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(fcitx-config-gtk3:6636): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:6636): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(fcitx-config-gtk3:6636): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:6636): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.fcitx.Fcitx-0" does not exist
+
+(fcitx-config-gtk3:6636): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:6636): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(gnome-settings-daemon:28422): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+
+(fcitx-config-gtk3:6636): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:6636): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(fcitx-config-gtk3:6636): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+** (fcitx-config-gtk3:6636): WARNING **: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.fcitx.Fcitx-0 was not provided by any .service files
+
+(gnome-settings-daemon:28422): Gdk-WARNING **: gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+** Message: PID 28470 (we are 28470) sent signal 15, shutting down...
+
+(nm-applet:28470): libappindicator-WARNING **: Unable to send signal for NewStatus: The connection is closed
+
+(deja-dup-monitor:28895): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.30 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(nautilus:28459): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.30 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:28895): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.31 of volume monitor org.gtk.Private.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:28895): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.32 of volume monitor org.gtk.Private.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+Terminated
+
+(gnome-terminal:28697): Gdk-WARNING **: gnome-terminal: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+
+(update-notifier:28760): Gdk-WARNING **: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gdu-notification-daemon:28646): Gdk-WARNING **: gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:28650): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+plugin-container: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+(software-center:30224): Gdk-WARNING **: software-center: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(fcitx-config-gtk3:6636): Gdk-WARNING **: fcitx-config-gtk3: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+** (zeitgeist-datahub:28668): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!

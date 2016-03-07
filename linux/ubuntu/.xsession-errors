@@ -1,0 +1,178 @@
+Not get reply
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-spell.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-sogoupinyin.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-unicode.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-remote-module.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-xkbdbus.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-fullwidth-char.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-punc-ng.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-punc.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-quickphrase.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-sogoucloudpinyin.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-dbus.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-autoeng.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-xkb.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-freedesktop-notify.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-fullwidth-char-enhance.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-ipc.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-kimpanel-ui.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-autoeng-ng.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-chttrans.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-imselector.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-clipboard.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-lua.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-keyboard.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-vk.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-x11.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-notificationitem.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-classic-ui.conf
+(INFO-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx/addon.c:151) Load Addon Config File:fcitx-xim.conf
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing commands options...done
+** Message: applet now removed from the notification area
+** Message: using fallback from indicator to GtkStatusIcon
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/home/xy/.compiz/session/10bb64f30837d48540145399590257518800000018320037"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+
+(compiz:1956): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+Initializing unityshell options...done
+Setting Update "command8"
+Setting Update "run_command8_key"
+Setting Update "main_menu_key"
+Setting Update "run_key"
+No LSB modules are available.
+** Message: moving back from GtkStatusIcon to indicator
+No LSB modules are available.
+No such file or directory: No such file or directory
+File exists: File exists
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+File exists: File exists
+File exists: File exists
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+iniparser: cannot open /home/xy/.config/SogouPY/sogouEnv.ini
+File exists: File exists
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 148 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 148 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 148 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-1914 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+
+** (zeitgeist-datahub:2240): WARNING **: zeitgeist-datahub.vala:227: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+** (sogou-qimpanel:2022): WARNING **: Unable to create Ubuntu Menu Proxy: Timeout was reached
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+
+(fcitx-config-gtk3:2358): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(fcitx-config-gtk3:2358): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(fcitx-config-gtk3:2358): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(jockey-gtk:2371): Gtk-CRITICAL **: gtk_icon_set_render_icon_pixbuf: assertion `icon_set != NULL' failed
+
+(jockey-gtk:2371): Gtk-CRITICAL **: gtk_icon_set_render_icon_pixbuf: assertion `icon_set != NULL' failed
+No LSB modules are available.
+No LSB modules are available.
+
+** (sogou-qimpanel-watchdog:2555): WARNING **: Unable to create Ubuntu Menu Proxy: Timeout was reached
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+
+(fcitx-config-gtk3:2805): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(fcitx-config-gtk3:2805): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+qrc:/qml/rightclickpreview.qml:75: Unable to assign [undefined] to bool visible
+qrc:/qml/rightclickpreview.qml:75: Unable to assign [undefined] to bool visible
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:75: Unable to assign [undefined] to bool visible
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/rightclickpreview.qml:71:6: QML Image: Cannot anchor to an item that isn't a parent or sibling.
+qrc:/qml/main.qml:11:5: QML BorderImage: Cannot open: qrc:/home/xy/.config/sogou-qimpanel/skin/默认皮肤/skin2.png
+qrc:/qml/main.qml:11:5: QML BorderImage: Cannot open: qrc:/home/xy/.config/sogou-qimpanel/skin/默认皮肤/skin2.png
+inputBackImg width: 56
+inputBackImg height: 58
+mainSkin.marginLeft : 2
+mainSkin.marginRight : 40
+mainSkin.marginTop : 34
+mainSkin.marginBottom : 4
+qrc:/qml/status.qml:263:9: QML Image: Failed to get image from provider: image://status/fan_jian0
+statusBarPic size: 142 29
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+(WARN-2022 /build/buildd/fcitx-4.2.8.5/src/lib/fcitx-config/fcitx-config.c:922) Invalid Entry: line 150 missing '='
+
+(fcitx-config-gtk3:3725): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(fcitx-config-gtk3:3725): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+
+(fcitx-config-gtk3:3725): GLib-GIO-CRITICAL **: g_dbus_connection_call_internal: assertion `G_IS_DBUS_CONNECTION (connection)' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.

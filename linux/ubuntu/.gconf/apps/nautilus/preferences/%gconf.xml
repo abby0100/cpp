@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="start_with_sidebar" mtime="1453994080" type="bool" value="true"/>
+</gconf>

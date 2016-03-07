@@ -1,0 +1,10 @@
+
+[1] install ssh-server
+
+	1.make sure set a good proxy in FF
+
+	2.install ssh-server
+	sudo service ssh restart
+	http://www.2cto.com/os/201308/238160.html
+
+
